@@ -1,13 +1,13 @@
-# def splitting():
-#  x="childrenplayinginplayground"
-# y=len(x)
-# firsthalf=x.lower()
-# half=x.upper()
-# split=y-(y//2)
-# user=half[:split]+firsthalf[split:]
-# return user
+# # def splitting():
+# #  x="childrenplayinginplayground"
+# # y=len(x)
+# # firsthalf=x.lower()
+# # half=x.upper()
+# # split=y-(y//2)
+# # user=half[:split]+firsthalf[split:]
+# # return user
 
-# print(splitting())
+# # print(splitting())
 
 # x="childrenplayinginplayground"
 # y=len(x)//2
@@ -22,7 +22,7 @@
 # u=n[m:].upper()
 # s=u+i
 # print(s)
-
+# 
 n="childrenplayinginplayground"
 k=len(n)//2
 y=n[k:].upper()
